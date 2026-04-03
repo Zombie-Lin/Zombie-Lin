@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zombie-Lin
+
 - 👀 I’m interested in coding/basketball
 - 🌱 I’m currently learning uniapp/wechat mini app
 - 💞️ I’m looking to collaborate on (just guess)
